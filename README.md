@@ -10,9 +10,9 @@ Iniciei o meu desafio no dia 13 de dezembro de 2020. O Desafio 30 dias de CSS te
 
 # Regras gerais
 
-Realizar um projeto por dia.
-Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) utilizando a hashtag #30diasDeCSS.
-O projeto deve ser concluído até 23:59.
+1) Realizar um projeto por dia.
+2) Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) utilizando a hashtag #30diasDeCSS.
+3) O projeto deve ser concluído até 23:59.
 
 # Youtube - Referências dos desafios
 
