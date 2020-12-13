@@ -4,7 +4,7 @@ Olá Devs, tudo bem?
 
 Com o desafio 30 dias de CSS, pretendemos desenvolver pequenos projetos com HTML e CSS.
 
-# 🚀Objetivo
+# Objetivo
 
 Iniciei o meu desafio no dia 13 de dezembro de 2020. O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3. Fui inspirada através da minha rede no Linkedin e pela Milena Carecho.
 
