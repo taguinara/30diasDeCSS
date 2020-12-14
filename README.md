@@ -1,9 +1,13 @@
- # Desafio 30 dias de CSS 📝
+ # 📚 Desafio 30 dias de CSS 
 
-Olá Devs, tudo bem?
+O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3.também segui alguns tutoriais desses canais: [Coding Artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ) e [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
-Este projeto tem como objetivo realizar o desafio dos 30 dias de CSS.
+# 📈 Data de início
 
-# Objetivo 📈
+Iniciei o meu desafio no dia 13 de dezembro de 2020. 
 
-Iniciei o meu desafio no dia 13 de dezembro de 2020. O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3.
+# Referências dos Desafios - Youtube
+
+[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) | [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) | [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
+
+Para mais informações: [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS#id01)
