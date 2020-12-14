@@ -1,6 +1,6 @@
  # 📚 Desafio 30 dias de CSS 
 
-O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3.também segui alguns tutoriais desses canais: [Coding Artist](https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ) e [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
+O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3.
 
 # 📈 Data de início
 
