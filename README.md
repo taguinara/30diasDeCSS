@@ -1,4 +1,4 @@
- # 📚 Desafio 30 dias de CSS 
+ ## 📚 Desafio 30 dias de CSS 
 
 O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utilizando o HTML5 e CSS3. Para mais informações: [Milena Carecho](https://github.com/MilenaCarecho/30diasDeCSS).
 
@@ -6,7 +6,7 @@ O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utili
 
 ---
 
-# 📈 Data de início
+## 📈 Data de início
 
 Iniciei o meu desafio no dia 13 de dezembro de 2020. 
 
