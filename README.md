@@ -9,14 +9,14 @@ O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utili
 
 ## Meus projetos:
 
-## Desafio dia 01 - Ícone de mídia social em camadas
+## Desafio dia 1 - Ícone de mídia social em camadas
 
 ![Alt Text](https://raw.githubusercontent.com/taguinara/30diasDeCSS/main/gifts/Dia1.gif)
 
-### Dia 02 - Loader animado
+## Desafio Dia 2 - Loader animado
 
 ![Alt Text](https://github.com/taguinara/30diasDeCSS/blob/main/gifts/Dia2.gif)
 
-### Dia 03 - Mudança de cor de texto quando entra em outra div
+## Desafio Dia 3 - Mudança de cor de texto quando entra em outra div
 
 ![Alt Text](https://github.com/taguinara/30diasDeCSS/blob/main/gifts/Dia3.gif)
