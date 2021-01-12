@@ -7,7 +7,11 @@ O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utili
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) | [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw) | [Easy Tutorials](https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA)
 
 
-## Meus projetos:
+## Lista de projetos:
+* [Dia 01 - Ícone de mídia social em camadas](#idDia01)
+* [Dia 02 - Loader animado](#idDia02)
+* [Dia 03 - Mudança de cor de texto quando entra em outra div](#idDia03)
+
 
 ## Desafio dia 1 - Ícone de mídia social em camadas
 
