@@ -17,10 +17,10 @@ O Desafio 30 dias de CSS tem como objetivo o aprimoramento das habilidades utili
 
 ![Alt Text](https://raw.githubusercontent.com/taguinara/30diasDeCSS/main/gifts/Dia1.gif)
 
-## Desafio Dia 2 - Loader animado <a name="idDia02"></a>
+## Desafio dia 2 - Loader animado <a name="idDia02"></a>
 
 ![Alt Text](https://github.com/taguinara/30diasDeCSS/blob/main/gifts/Dia2.gif)
 
-## Desafio Dia 3 - Mudança de cor de texto quando entra em outra div <a name="idDia03"></a>
+## Desafio dia 3 - Mudança de cor de texto quando entra em outra div <a name="idDia03"></a>
 
 ![Alt Text](https://github.com/taguinara/30diasDeCSS/blob/main/gifts/Dia3.gif)
